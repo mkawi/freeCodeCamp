@@ -10,7 +10,7 @@ Summary goes here lorem ipsum ...
 2. ~Survey Form~
 3. ~Product Landing Page~
 4. ~Technical Documentation~
-5. Personal Portfolio
+5. ~Personal Portfolio~
 
 ### 02 JavaScript Algorithms & Data Structures
 
