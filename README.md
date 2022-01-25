@@ -14,7 +14,7 @@ Summary goes here lorem ipsum ...
 
 ### 02 JavaScript Algorithms & Data Structures
 
-1. Palindrome Checker
+1. ~Palindrome Checker~
 2. Roman Numeral Converter
 3. Caesars Cipher
 4. Telephone Number Validator
