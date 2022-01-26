@@ -18,7 +18,7 @@ Summary goes here lorem ipsum ...
 2. ~Roman Numeral Converter~
 3. ~Caesars Cipher~
 4. ~Telephone Number Validator~
-5. Cash Register
+5. ~Cash Register~
 
 ### 03 Front End Libraries
 
