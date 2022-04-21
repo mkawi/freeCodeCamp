@@ -23,7 +23,7 @@
 1. ~Random Quote Machine~
 2. ~Markdown Previewer~
 3. ~Drum Machine~
-4. JavaScript Calculator
+4. ~JavaScript Calculator~
 5. Pomodoro Clock
 
 ### 04 Data Visualization
