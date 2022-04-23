@@ -24,7 +24,7 @@
 2. ~Markdown Previewer~
 3. ~Drum Machine~
 4. ~JavaScript Calculator~
-5. Pomodoro Clock
+5. ~25 + 5 Clock~
 
 ### 04 Data Visualization
 
